@@ -28,7 +28,7 @@ I'm Zy Taga, a data analyst and Python developer. I Spend most of my time coding
 
 <br >
 
-I love sharing knowledge, working with people from different background. I'm fixing to smart a youtube channel to start my day-to-day at Skoltech.
+I love sharing knowledge, working with people from different background. I'm fixing to start a youtube channel to post short videos about my day-to-day at Skoltech.
 
 #### Github Stats
 
