@@ -15,7 +15,6 @@ I'm Zy Taga, a Data Analyst and Python developer. I love programming, and code w
 - ⚡ Fun fact: I write poems and rap with a guitar.
 
 <br />
-<br />
 
 #### Profile Visits 
 
