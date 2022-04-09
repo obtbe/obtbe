@@ -4,7 +4,7 @@ I'm Zy Taga, a Data Analyst and Python developer. I love programming, and code w
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-zy_taga-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zytaga)](https://twitter.com/zytaga) [![Linkedin Badge](https://img.shields.io/badge/-zimetaga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zime-taga/) [![Mail Badge](https://img.shields.io/badge/-@zimtagas-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zimtagas) [![Mail Badge](https://img.shields.io/badge/-zimetaga-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zimtagas@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-zy_taga-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zytaga)](https://twitter.com/zimetaga) [![Linkedin Badge](https://img.shields.io/badge/-zimetaga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zime-taga/) [![Mail Badge](https://img.shields.io/badge/-@zimtagas-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zimtagas) [![Mail Badge](https://img.shields.io/badge/-zimetaga-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zimtagas@gmail.com)
 
 <!-- TODO: Add last video link -->
 
