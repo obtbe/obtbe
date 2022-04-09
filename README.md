@@ -1,0 +1,35 @@
+## Hi I'm Zy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm Zy Taga, a data analyst and Python developer. I Spend most of my time coding outstanding projects or reading books of various topics. I love horse riding and the ocean.
+
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@zimetaga-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zytaga)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zime-taga/) [![Mail Badge](https://img.shields.io/badge/-@zimtagas-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/zimtagas) [![Mail Badge](https://img.shields.io/badge/-zimetaga-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zimtagas@gmail.com)
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working in my master's at Skoltech
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with a AI-powered quiz App.
+- 📫 How to reach me: zytaga@oulook.com.
+- ⚡ Fun fact: I write poems and rap with a guitar.
+
+<br />
+<br />
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zytaga.zytaga)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love sharing knowledge, working with people from different background. I'm fixing to smart a youtube channel to start my day-to-day at Skoltech.
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=zytaga&count_private=true&theme=tokyonight&hide=contribs,prs)
