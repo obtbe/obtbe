@@ -8,7 +8,7 @@ My name is Zy (It sounds like zaɪ). My favorite distraction is cracking the "wh
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently zeroing in on my master's of Data Science at Skoltech
+- 🔭 My favorite show is Silicon Valley. My favorite character is Nelson Bighetti
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with an AI-powered quiz App.
 - 📫 How to reach me: zytaga@oulook.com.
@@ -27,7 +27,7 @@ My name is Zy (It sounds like zaɪ). My favorite distraction is cracking the "wh
 
 <br >
 
-I love sharing knowledge, working with people from different background. I'm fixing to start a youtube channel to post short videos about my day-to-day at Skoltech.
+I’m currently zeroing in on my master's of Data Science at Skoltech. I love sharing knowledge, working with people from different background. I'm fixing to start a youtube channel to post short videos about my day-to-day at Skoltech.
 
 #### Github Stats
 
