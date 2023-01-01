@@ -3,7 +3,6 @@ Zy Taga
 
 I'm a Data Analyst at Euro Exim Bank, a Trade Finance firm based in St. Lucia, West Indies. I use Python and SQL to work with data and Power BI to build visualisations. When I'm not trying to find what's behind the data or writing blogs, I like to play outdoors.
 
-[![Hiking Somewhere in Mali](images/cover.jpg)](D:\Downloads\my-website\zynmaryamx.jpg) 
 
 ### Contact me
 
