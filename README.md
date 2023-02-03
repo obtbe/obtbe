@@ -1,7 +1,7 @@
 Zy Taga
 ===
 
-I'm a Data Analyst with 3+ years experience working with real world data. I use Python and SQL to work with data and Power BI to build visualisations. When I'm not trying to find what's behind the data or writing blogs, I like to play outdoors.
+As a skilled Data Analyst with 3+ years of experience, I excel at uncovering insights within real-world data. I utilize Python, SQL, and Power BI, as well as Gradient Boosting algorithms, to analyze and present data in meaningful ways. When I'm not solving data puzzles, I enjoy exploring the outdoors and continuously improving my skills in the field.
 
 
 ### Contact me
