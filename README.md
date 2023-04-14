@@ -7,4 +7,4 @@ As a skilled Data Analyst with 3+ years of experience, I excel at uncovering ins
 ### Contact me
 
 Email: [zeidombo@outlook.com.com](mailto:zeidombo@outlook.com)
-Twitter: [@zytaga](https://twitter.com/zytaga/)
+Twitter: [@zeidombo](https://twitter.com/zeidombo/)
