@@ -1,12 +1,12 @@
 ## 🙋‍♀️ About Me
 - 📊 I'm a Google Certified Data Analyst and DS4A fellow at Correlation One. 
-- 📐 Dropped out from North Carolina State University but pursuing a BS-CS at University of the People.
+- 📐 Pursuing a BS-CS at University of the People.
 - 🔍 Love learning new skills.
 - ✏ Post every other week on my [blog](https://zeidombo.com/) where I write about data analytics, switching careers or learning new skills. 
 - ✉ I send out a [newsletter](https://zeidombo.substact.com/) every 3 weeks with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, marchine learning and Python.
 
 ## 🛠 Skills and Tools
-- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Regression Analysis, 
+- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Regression Analysis.
 - **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication.
 
 ## 📚 Projects ⭐
