@@ -1,10 +1,20 @@
-Zeid Ombotimbe
-===
+## 🙋‍♀️ About Me
+- 📊 I'm a Google Certified Data Analyst and DS4A fellow at Correlation One. 
+- 📐 Dropped out from North Carolina State University but pursuing a BS-CS at University of the People.
+- 🔍 Love learning new skills.
+- ✏ Post every other week on my [blog](https://zeidombo.com/) where I write about data analytics, switching careers or learning new skills. 
+- ✉ I send out a [newsletter](https://zeidombo.substact.com/) every 3 weeks with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, marchine learning and Python.
 
-As a skilled Data Analyst with 3+ years of experience, I excel at uncovering insights within real-world data. I utilize Python, SQL, and Power BI, as well as Gradient Boosting algorithms, to analyze and present data in meaningful ways. When I'm not solving data puzzles, I enjoy exploring the outdoors and continuously improving my skills in the field.
+## 🛠 Skills and Tools
+- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Regression Analysis, 
+- **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication.
+
+## 📚 Projects ⭐
+- View my portfolio projects on [**my website**](https://zeidombo.com/projects). 
+- View my coding projects on [**Github**](https://github.com/zeidombo?tab=repositories).
 
 
-### Contact me
-
-Email: [zeidombo@outlook.com](mailto:zeidombo@outlook.com)
-Twitter: [@zeidombo](https://twitter.com/zeidombo/)
+## 📫 Connect with Me
+- [Website](https://zeidombo.com/)
+- [LinkedIn](https://www.linkedin.com/in/zeidombo/)
+- [Email](mailto:zeidombo@hotmail.com)
