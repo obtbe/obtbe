@@ -6,7 +6,7 @@
 - ✉ I send out a [newsletter](https://zeidombo.substact.com/) every 3-week with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, marchine learning and Python.
 
 ## 🛠 Skills and Tools
-- **Tools:** Power BI; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Regression Analysis.
+- **Tools:** Power BI; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash); Excel (Pivot tables, Vlookup, Charts), Regression Analysis.
 - **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication.
 
 ## 📚 Projects ⭐
