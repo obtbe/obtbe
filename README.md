@@ -1,5 +1,5 @@
 ## 🙋‍♀️ About Me
-- 📊 I'm a Google Certified Data Analyst and a DS4A fellow at [Correlation One](https://www.correlation-one.com/). 
+- 📊 I'm a Google Certified Data Analyst and a [DS4A fellow](https://www.credential.net/67d98bab-1d5c-482f-91bd-3b54c6690092) at [Correlation One](https://www.correlation-one.com/). 
 - 📐 Pursuing a BS-CS at the University of the People.
 - 🔍 Love learning new skills.
 - ✏ Post every other week on my [blog](https://zeidombo.com/) where I write about data analytics, switching careers or learning new skills. 
