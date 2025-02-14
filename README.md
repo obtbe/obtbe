@@ -1,20 +1,44 @@
-## 🙋‍♀️ About Me
-- 📊 I'm a Google Certified Data Analyst and a [DS4A fellow](https://www.credential.net/67d98bab-1d5c-482f-91bd-3b54c6690092) at [Correlation One](https://www.correlation-one.com/). 
-- 📐 DS and Algorithms mentor at the University of the People.
-- 🔍 Love learning new skills.
-- ✏ Post every other week on my [blog](https://ombotimbe.com/) where I write about data analytics & Machine Learning, switching careers or learning new skills. 
-- ✉ I send out a [newsletter](https://zeidombo.substact.com/) every 3-week with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, marchine learning and Python.
+## 👋 About Me
 
-## 🛠 Skills and Tools
-- **Tools:** Power BI; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy, Seaborn, Streamlit, Matplotlib, Folium, Dash); Excel (Pivot tables, Vlookup, Charts), Regression Analysis.
-- **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication.
+I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlation One](https://www.correlation-one.com/). With a passion for turning data into actionable insights, I thrive on solving complex problems and continuously expanding my skill set. 
 
-## 📚 Projects ⭐
-- View my portfolio projects on [**my website**](https://ombotimbe.com/projects). 
-- View my coding projects on [**Github**](https://github.com/zeidombo?tab=repositories).
+- 🌱 **Always Learning:** I love diving into new tools, technologies, and methodologies to stay ahead in the ever-evolving field of data analytics and machine learning.
+- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, career transitions, and skill development on my [blog](https://ombotimbe.com/). I post bi-weekly, sharing insights and practical tips.
+- 📬 **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.
 
+---
 
-## 📫 Connect with Me
-- [Website](https://ombotimbe.com/)
-- [LinkedIn](https://www.linkedin.com/in/zeidombo/)
-- [Email](mailto:zeidombo@hotmail.com)
+## 🛠 Skills & Tools
+
+### **Programming Languages**
+- Python • SQL (TSQL, PostgreSQL) • NoSQL • Git
+
+### **Data Analysis & Visualization**
+- Pandas • NumPy • Power BI • Tableau • Excel • Matplotlib • Seaborn • Streamlit
+
+### **Machine Learning & Statistics**
+- Regression Analysis • A/B Testing • Decision Trees • XGBoost • Scikit-learn
+
+### **Cloud & Data Engineering**
+- PySpark • Snowflake • BigQuery • dbt • Azure Synapse Analytics • Azure Data Factory
+
+### **Soft Skills**
+- Team Collaboration • Bias for Action • Results-Driven
+
+---
+
+## 🚀 Projects
+
+Explore my work to see how I apply my skills to real-world problems:
+- **Portfolio Projects:** Check out my [project portfolio](https://ombotimbe.com/projects) for detailed case studies and analyses.
+- **Coding Projects:** Browse my [GitHub repositories](https://github.com/obtbe?tab=repositories) for code and implementations.
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on exciting projects or discussing data-related topics. Feel free to reach out!
+
+- 🌐 [Website](https://ombotimbe.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/obtbe/)
+- 📧 [Email](mailto:zobtbe@gmail.com)
