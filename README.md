@@ -2,8 +2,8 @@
 
 I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlation One](https://www.correlation-one.com/). I work with data to solve problems and deliver results.  
 
-- 🌱 **Always Learning:** I love diving into new tools, technologies, and methodologies to stay ahead in the ever-evolving field of data analytics and machine learning.  
-- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, career transitions, and skill development on my [blog](https://ombotimbe.com/). I post bi-weekly, sharing insights and practical tips.  
+- 🌱 **Always Learning:** I enjoy exploring new tools, technologies, and methodologies to keep up with the fast-paced world of data analytics and machine learning.
+- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://ombotimbe.com/). I post bi-weekly, sharing insights and practical tips.  
 - 📬 **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.  
 
 ## 🛠 Skills & Tools  
@@ -26,8 +26,7 @@ I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlat
 ## 🚀 Projects  
 
 Explore my work to see how I apply my skills to real-world problems:  
-- **Portfolio Projects:** Check out my [project portfolio](https://ombotimbe.com/projects) for detailed case studies and analyses.  
-- **Coding Projects:** Browse my [GitHub repositories](https://github.com/obtbe?tab=repositories) for code and implementations.  
+- **Projects:** Browse my [GitHub repositories](https://github.com/obtbe?tab=repositories) for recent projects, code and implementations.  
 
 ## 📬 Let's Connect  
 
