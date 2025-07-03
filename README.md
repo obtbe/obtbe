@@ -32,6 +32,6 @@ Explore my work to see how I apply my skills to real-world problems:
 
 I'm always open to collaborating on exciting projects or discussing data-related topics. Feel free to reach out!  
 
-- 🌐 [Website](https://ombotimbe.com/)  
+- 🌐 [Website](https://obtbe.com/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/obtbe/)  
 - 📧 [Email](mailto:zobtbe@gmail.com)
