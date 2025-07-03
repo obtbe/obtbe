@@ -1,9 +1,9 @@
-## 👋 About Me
+## I'm Zeid
 
 I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlation One](https://www.correlation-one.com/). I work with data to solve problems and deliver results.  
 
 - 🌱 **Always Learning:** I enjoy exploring new tools, technologies, and methodologies to keep up with the fast-paced world of data analytics and machine learning.
-- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://ombotimbe.com/). I post bi-weekly, sharing insights and practical tips.  
+- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://obtbe.com/). I post bi-weekly, sharing insights and practical tips.  
 - 📬 **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.  
 
 ## 🛠 Skills & Tools  
