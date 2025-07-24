@@ -1,10 +1,10 @@
 ## I'm Zeid
 
-I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlation One](https://www.correlation-one.com/). I work with data to solve problems and deliver results.  
+I'm a **Google Certified Data Scientist** and a proud **DS4A (Data Science For All) Fellow** at [Correlation One](https://www.correlation-one.com/). I work with data to solve problems and deliver results.  
 
-- 🌱 **Always Learning:** I enjoy exploring new tools, technologies, and methodologies to keep up with the fast-paced world of data analytics and machine learning.
-- ✍️ **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://obtbe.com/). I post bi-weekly, sharing insights and practical tips.  
-- 📬 **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.  
+- **Always Learning:** I enjoy exploring new tools, technologies, and methodologies to keep up with the fast-paced world of data analytics and machine learning.
+- **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://obtbe.com/). I post bi-weekly, sharing insights and practical tips.  
+- **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.  
 
 ## 🛠 Skills & Tools  
 
@@ -23,7 +23,7 @@ I'm a **Google Certified Data Analyst** and a proud **DS4A Fellow** at [Correlat
 ### **Soft Skills**  
 - Team Collaboration • Bias for Action • Results-Driven  
 
-## 🚀 Projects  
+## Projects  
 
 Explore my work to see how I apply my skills to real-world problems:  
 - **Projects:** Browse my [GitHub repositories](https://github.com/obtbe?tab=repositories) for recent projects, code and implementations.  
