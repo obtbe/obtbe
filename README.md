@@ -4,7 +4,6 @@ For the past few years I've been working in data analytics and engineering. Curr
 
 [Blog →](https://obtbe.com)
 
----
 
 ## Projects
 
@@ -13,7 +12,6 @@ See all my work:
 or  
 [GitHub Repositories →](https://github.com/obtbe?tab=repositories)
 
----
 
 ## Skills
 
@@ -37,8 +35,6 @@ or
 • Git  
 • Scala  
 • Julia
-
----
 
 ## Get in Touch
 
