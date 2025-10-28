@@ -1,37 +1,29 @@
-## I'm Zeid
+# Hey, I'm Zeid
 
-I'm a **Google Certified Data Scientist** and a proud **DS4A (Data Science For All) Fellow** at [Correlation One](https://www.correlation-one.com/). I work with data to solve problems and deliver results.  
+For the past few years I've been working in data analytics and engineering. Currently I focus on data engineering — building reliable pipelines with Python, SQL, and Scala.
 
-- **Always Learning:** I enjoy exploring new tools, technologies, and methodologies to keep up with the fast-paced world of data analytics and machine learning.
-- **Blogger & Educator:** I write about data analytics, machine learning, mental health (Oh yeah), and skill development on my [blog](https://obtbe.com/). I post bi-weekly, sharing insights and practical tips.  
-- **Newsletter Curator:** Every three weeks, I send out a [newsletter](https://zeidombo.substack.com/) featuring my latest blog post and three handpicked resources on data analytics, machine learning, and Python.  
+[Blog →](https://obtbe.com)
 
-## 🛠 Skills & Tools  
+---
 
-### **Programming Languages**  
-- Python • SQL (TSQL, PostgreSQL) • NoSQL • Git  
+## Projects
 
-### **Data Analysis & Visualization**  
-- Pandas • NumPy • Power BI • Tableau • Excel • Matplotlib • Seaborn • Streamlit  
+See all my work:  
+[obtbe.com/projects](https://obtbe.com/projects)  
+or  
+[GitHub Repositories →](https://github.com/obtbe?tab=repositories)
 
-### **Machine Learning & Statistics**  
-- Regression Analysis • A/B Testing • Decision Trees • XGBoost • Scikit-learn  
+---
 
-### **Cloud & Data Engineering**  
-- PySpark • Snowflake • BigQuery • dbt • Azure Synapse Analytics • Azure Data Factory  
+## Skills
 
-### **Soft Skills**  
-- Team Collaboration • Bias for Action • Results-Driven  
+[Python] [SQL] [Databricks] [Pandas] [NumPy] [PySpark] [Airflow] [S3] [Redshift] [Azure Data Factory] [Snowflake] [BigQuery] [dbt] [Scikit-learn] [XGBoost] [Power BI] [Tableau] [Streamlit] [Git] [Scala] [Julia]
 
-## Projects  
+---
 
-Explore my work to see how I apply my skills to real-world problems:  
-- **Projects:** Browse my [GitHub repositories](https://github.com/obtbe?tab=repositories) for recent projects, code and implementations.  
+## Get in Touch
 
-## 📬 Let's Connect  
+**Email**: `zeid@obtbe.com`  
+**LinkedIn**: [linkedin.com/in/obtbe](https://linkedin.com/in/obtbe)
 
-I'm always open to collaborating on exciting projects or discussing data-related topics. Feel free to reach out!  
-
-- 🌐 [Website](https://obtbe.com/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/obtbe/)  
-- 📧 [Email](mailto:zobtbe@gmail.com)
+Always ready to chat about Code, Math, Data and life.
