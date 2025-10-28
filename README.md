@@ -1,6 +1,6 @@
 # Hey, I'm Zeid
 
-For the past few years I've been working in data analytics and engineering. Currently I focus on data engineering — building reliable pipelines with Python, SQL, and Scala.
+For the past few years I've been working in data analytics and engineering. Currently I focus on data engineering.
 
 [Blog →](https://obtbe.com)
 
@@ -17,7 +17,26 @@ or
 
 ## Skills
 
-[Python] [SQL] [Databricks] [Pandas] [NumPy] [PySpark] [Airflow] [S3] [Redshift] [Azure Data Factory] [Snowflake] [BigQuery] [dbt] [Scikit-learn] [XGBoost] [Power BI] [Tableau] [Streamlit] [Git] [Scala] [Julia]
+• Python  
+• SQL  
+• Databricks  
+• Pandas  
+• NumPy  
+• PySpark  
+• Airflow 
+• S3    
+• Azure Data Factory  
+• Snowflake  
+• BigQuery  
+• dbt  
+• Scikit-learn  
+• XGBoost  
+• Power BI  
+• Tableau  
+• Streamlit  
+• Git  
+• Scala  
+• Julia
 
 ---
 
