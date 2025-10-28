@@ -15,26 +15,7 @@ or
 
 ## Skills
 
-• Python  
-• SQL  
-• Databricks  
-• Pandas  
-• NumPy  
-• PySpark  
-• Airflow 
-• S3    
-• Azure Data Factory  
-• Snowflake  
-• BigQuery  
-• dbt  
-• Scikit-learn  
-• XGBoost  
-• Power BI  
-• Tableau  
-• Streamlit  
-• Git  
-• Scala  
-• Julia
+• Python • SQL • Databricks  • Pandas  • NumPy  • PySpark  • Airflow • S3 • Azure Data Factory • Snowflake • BigQuery • dbt • Scikit-learn • XGBoost • Power BI• Tableau  • Streamlit • Git • Scala • Julia
 
 ## Get in Touch
 
